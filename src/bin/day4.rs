@@ -1,7 +1,4 @@
-use std::{
-    convert::{identity, Infallible},
-    str::FromStr,
-};
+use std::{convert::Infallible, str::FromStr};
 
 use advent_of_code_2024::aoc_main;
 use itertools::Itertools;
